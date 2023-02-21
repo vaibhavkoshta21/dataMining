@@ -1,1 +1,3 @@
 # dataMining
+
+The objective of this project work is building a Data Mining Model to predict whether the costumer will default on the loan or not or will he/she responds to the loan campaign. Concordance and Discordance are utilized to predict the accuracy of the build models. Challenges faced during the project work are – handling the large data set of 20,000 observations and grouping them into similar groups. The given data set contains categorical as well as continuous variables with large variations in their mean value, to overcome this problem we have to scale the data and check correlation among them. The accuracy of the model is found to be 96.48%.
